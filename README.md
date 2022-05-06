@@ -1,5 +1,7 @@
 # 2PlayerChess_ClientServer_JavaSwing
 
+### Final project I choose to complete for a network programming course
+
 
 ## Server - Console Logging
 - Threaded server
