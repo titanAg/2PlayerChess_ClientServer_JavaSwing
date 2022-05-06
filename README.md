@@ -1,6 +1,6 @@
 # 2PlayerChess_ClientServer_JavaSwing
 
-### Final project I choose to complete for a network programming course
+### Final project I choose to complete for a network programming course in my 3rd year.
 
 
 ## Server - Console Logging
